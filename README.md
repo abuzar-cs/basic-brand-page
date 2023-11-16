@@ -1,3 +1,6 @@
+
+![Screenshot 2023-11-16 115337](https://github.com/abuzar-cs/basic-brand-page/assets/108052139/480b349e-0bbb-4b49-8b9b-f1a6231a7c25)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
